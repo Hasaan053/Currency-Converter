@@ -18,19 +18,19 @@ This project implements a **Currency Converter** application in C++. It provides
 ## 🚀 Getting Started
 ### 📥 Clone the repository:
 ```sh
-git clone https://github.com/your-username/currency-converter.git
+git clone https://github.com/Hasaan053/Currency-Converter.git
 ```
 ### 📂 Navigate to the project directory:
 ```sh
-cd currency-converter
+cd Currency-Converter
 ```
 ### 🛠 Compile the code:
 ```sh
-g++ currency_converter.cpp -o currency_converter.exe
+g++ Currency-Converter.cpp -o Currency-Converter.exe
 ```
 ### ▶️ Run the executable:
 ```sh
-currency_converter.exe
+Currency-Converter.exe
 ```
 
 ## 🎯 Usage
