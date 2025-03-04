@@ -63,7 +63,7 @@ void A::introduction()
 	cout << "\t\t ================================================";
 	cout<<"\n\t\t\t|| DEVELOPED BY ||"<<endl;
 	cout <<"\t\t\t\t\t\t  ================================================\n";
-	cout<<"\t\t\t\t\t\t\t    Name's 		|| 		Roll_ No'S \n";
+	cout<<"\t\t\t\t\t\t\t    Hasaan \n";
 	
 	
 }
